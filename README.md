@@ -1,1 +1,1 @@
-# gym-gear
+# lux gym
